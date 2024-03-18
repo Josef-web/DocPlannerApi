@@ -5,8 +5,6 @@ Bu proje, DocPlanner adlı bir hastane randevu sistemini temsil eden bir API'dir
 ## Başlarken
 Projeyi çalıştırmak ve geliştirmeye başlamak için aşağıdaki adımları takip edin.
 
-``` git clone https://github.com/your-username/docplanner-api.git ```
-
 ## Gereksinimler
 .NET 8 SDK
 Bir REST API istemcisi (örneğin Postman veya Swagger)
@@ -14,8 +12,28 @@ Bir REST API istemcisi (örneğin Postman veya Swagger)
 ## Kurulum
 
 Bu depoyu klonlayın:
-```git clone https://github.com/your-username/docplanner-api.git```
 
-Projeyi yerel makinenizde çalıştırın:
+```git clone https://github.com/Josef-web/DocPlannerApi.git```
 
-```dotnet run```
+
+
+
+
+## API Rotaları
+
+### Book
+
+POST / book-visit: randevu oluşturma
+
+POST / cancel-booking: randevu iptal etme
+
+
+### Doctor
+
+GET / all-doctors: tüm doktorları listele
+
+GET / doctor-schedule: doctorId'ye göre doktor takvimi görüntüleme
+
+GET / doctor-avaliable-slots: doctorId'ye göre free slot listeleme
+
+GET / export-doctors: Türk doktorların kadın-erkek olarak ayrılmış bir şekilde excel listesini çıkartır.
