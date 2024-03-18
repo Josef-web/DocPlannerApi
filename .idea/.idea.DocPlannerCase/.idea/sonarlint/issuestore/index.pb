@@ -1,0 +1,37 @@
+
+O
+DocPlannerCase/appsettings.json,5\b\5bcff71e5edd4b6e313edbabf5e26514b30ba931
+I
+DocPlannerCase/Program.cs,a\5\a5f985c724f333055c015c8921c4f31d03162ec9
+i
+9DocPlannerCase/Models/RequestModels/DoctorRequestModel.cs,3\2\322644ed95661dbfe2c3ef6ccb31f24724e3ed1b
+q
+ADocPlannerCase/Models/RequestModels/DoctorScheduleRequestModel.cs,a\2\a2ae99c49e1fe6c6d89f2cb19f355ed3741abd5a
+l
+<DocPlannerCase/Models/RequestModels/BookVisitRequestModel.cs,7\9\7991747a689c882230e2f83964cc5d4d361583e0
+w
+GDocPlannerCase/Models/RequestModels/DoctorAvailableSlotsRequestModel.cs,7\2\72294cef8ad866af5dae733b59a84f91edb4ee5d
+n
+>DocPlannerCase/Models/ResponseModels/BookVisitResponseModel.cs,3\e\3eab6c2487f3539fb0a7a348539a0bd2932330c3
+y
+IDocPlannerCase/Models/ResponseModels/DoctorAvailableSlotsResponseModel.cs,5\4\546711aef4ec6b04c1e9eabf532aeb22f47c8276
+k
+;DocPlannerCase/Models/ResponseModels/DoctorResponseModel.cs,b\9\b950300f873e886d96166ab2178690747a442fa4
+s
+CDocPlannerCase/Models/ResponseModels/DoctorScheduleResponseModel.cs,4\0\40c71a6bf5646c0bf82013ff08090ab7cbf9347d
+^
+.DocPlannerCase/Controllers/DoctorController.cs,1\1\11e7b159dbf8bdda60bf4222a4cacb7476f534b1
+\
+,DocPlannerCase/Controllers/BookController.cs,5\f\5f83224e06df12a3e5dbf52d69e4705de25ba7b8
+b
+2DocPlannerCase/Business/Concrete/IDoctorService.cs,a\9\a9c953922fd1804c395705b63286469930f1e080
+`
+0DocPlannerCase/Business/Concrete/IBookService.cs,1\4\141f4b86a4792bedb8c9a99ccb5005d8e341ce34
+_
+/DocPlannerCase/Business/Abstract/BookService.cs,8\c\8c93d0500f9ee7ec569138d07ceda9ae982484e5
+a
+1DocPlannerCase/Business/Abstract/DoctorService.cs,2\7\27ccea79a1f3715a9ea7929cafa636f9ff89866e
+P
+ DocPlannerCase/DoctorsOutput.csv,7\6\76f47d948e353f243ceb0e575490e620173bb9cd
+[
++DocPlannerCase/appsettings.Development.json,4\7\47a385a9124ce1e4adee4aa4216580e0bab9a8d2
