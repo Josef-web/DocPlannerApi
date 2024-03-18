@@ -44,7 +44,7 @@ public class BookService : IBookService
         }
         else
         {
-            throw new Exception("Failed to book appointment. HTTP status code: " + response.StatusCode);
+            throw new Exception("Failed to book visit. HTTP status code: " + response.StatusCode);
         }
 
     }

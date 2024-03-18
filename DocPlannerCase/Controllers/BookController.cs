@@ -15,7 +15,7 @@ public class BookController : Controller
     }
     
     
-    [HttpPost("book-appointment")]
+    [HttpPost("book-visit")]
     [SwaggerOperation(
         Summary = "Book Appointment",
         Description = "Books an appointment with the specified informations.")]
